@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Ankit Founder of EduX
 - 👀 I’m interested in Software Enginering
 - 🌱 I’m currently learning Some Other Things
 - 💞️ I’m looking to collaborate on Projects
